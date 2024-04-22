@@ -10,7 +10,7 @@
 + Lock the currently selected target.
 
 # Use
-Download `KralScEN.dll` and place it in your Game folder (e.g. xx\Riot Games\League of Legends\Game).
+Download EN `Hid.dll` and place it in your Game folder (e.g. xx\Riot Games\League of Legends\Game).
 
 END!
 
@@ -26,6 +26,6 @@ END!
 + Seçili olan hedefi kilitle.
 
 # Kullanım
-`KralScTR.dll`'yi indirin ve Oyun klasörünüze yerleştirin (örn. xx\Riot Games\League of Legends\Game).
+TR `Hid.dll`'yi indirin ve Oyun klasörünüze yerleştirin (örn. xx\Riot Games\League of Legends\Game).
 
 SON!
